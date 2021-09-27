@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jordandelta &#8211; JDsevenShop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/jordandelta/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wtruongg.github.io/jd7Shop</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Sep 2021 07:23:09 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Jordan Delta</title>
+		<link>https://wtruongg.github.io/jd7Shop/san-pham/jordan-delta/</link>
+					<comments>https://wtruongg.github.io/jd7Shop/san-pham/jordan-delta/#respond</comments>
+		
+		<dc:creator><![CDATA[Vo Van Truong]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 01:55:53 +0000</pubDate>
+				<guid isPermaLink="false">https://wtruongg.github.io/jd7Shop/?post_type=product&#038;p=324</guid>
+
+					<description><![CDATA[<ul class="description-preview__features pt8-sm pb6-sm ncss-list-ul">
+ 	<li class="description-preview__color-description ncss-li">Colour Shown: Light Bone/Light Arctic Pink/Sunset Pulse/Black</li>
+ 	<li class="description-preview__style-color ncss-li">Style: CW0913-061</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>The Jordan Delta 2 offers a fresh, fearless take on the features you want: durability, comfort and an attitude that&#8217;s Jordan to the core.We updated design lines and swapped out some components, but the idea is the same as the first Delta.The 2 still has that clashing combination of supportive and space age-like materials, with lots of different textures and heavy stitching to create a look that&#8217;s both adventurous and iconic.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wtruongg.github.io/jd7Shop/san-pham/jordan-delta/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

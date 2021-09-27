@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jordanonetake &#8211; JDsevenShop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/jordanonetake/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wtruongg.github.io/jd7Shop</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:15:37 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Jordan One Take II PF</title>
+		<link>https://wtruongg.github.io/jd7Shop/san-pham/jordan-delta-2/</link>
+					<comments>https://wtruongg.github.io/jd7Shop/san-pham/jordan-delta-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Vo Van Truong]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 02:15:42 +0000</pubDate>
+				<guid isPermaLink="false">https://wtruongg.github.io/jd7Shop/?post_type=product&#038;p=342</guid>
+
+					<description><![CDATA[<ul class="description-preview__features pt8-sm pb6-sm ncss-list-ul">
+ 	<li class="description-preview__color-description ncss-li">Colour Shown: Black/Anthracite/Metallic Silver</li>
+ 	<li class="description-preview__style-color ncss-li">Style: CW2458-001</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Russell Westbrook backs up his brashness with a fast, aggressive playing style and numbers that place him among the league&#8217;s best. His all-new Jordan One Take II embodies his edginess and speed.Colours, textures and design lines speak to Russ&#8217; persona both on and off the court.This PF version uses an extra-durable outsole that&#8217;s ideal for outdoor courts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wtruongg.github.io/jd7Shop/san-pham/jordan-delta-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

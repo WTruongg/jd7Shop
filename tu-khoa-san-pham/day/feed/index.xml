@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>day &#8211; JDsevenShop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/day/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wtruongg.github.io/jd7Shop</link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:08:09 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Dây buột đủ màu</title>
+		<link>https://wtruongg.github.io/jd7Shop/san-pham/day-buot-du-mau/</link>
+					<comments>https://wtruongg.github.io/jd7Shop/san-pham/day-buot-du-mau/#respond</comments>
+		
+		<dc:creator><![CDATA[Vo Van Truong]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 07:20:34 +0000</pubDate>
+				<guid isPermaLink="false">https://wtruongg.github.io/jd7Shop/?post_type=product&#038;p=480</guid>
+
+					<description><![CDATA[Color : All Color]]></description>
+										<content:encoded><![CDATA[<p>Featuring a fixed strap over the top of the foot, the Jordan Break Slide uses durable synthetic leather and lightweight foam cushioning for underfoot comfort.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wtruongg.github.io/jd7Shop/san-pham/day-buot-du-mau/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dây buột hồng</title>
+		<link>https://wtruongg.github.io/jd7Shop/san-pham/day-buot-hong/</link>
+					<comments>https://wtruongg.github.io/jd7Shop/san-pham/day-buot-hong/#respond</comments>
+		
+		<dc:creator><![CDATA[Vo Van Truong]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 07:18:39 +0000</pubDate>
+				<guid isPermaLink="false">https://wtruongg.github.io/jd7Shop/?post_type=product&#038;p=478</guid>
+
+					<description><![CDATA[Color : Pink]]></description>
+										<content:encoded><![CDATA[<p>Featuring a fixed strap over the top of the foot, the Jordan Break Slide uses durable synthetic leather and lightweight foam cushioning for underfoot comfort.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wtruongg.github.io/jd7Shop/san-pham/day-buot-hong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
